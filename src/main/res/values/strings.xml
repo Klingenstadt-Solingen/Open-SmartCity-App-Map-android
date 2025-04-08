@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- MAP RELATED STRINGS [!need override!] -->
+    <string name="map_title"/>
+    <string name="map_poi_details_approximate_distance"/>
+    <string name="map_categories"/>
+    <string name="map_search"/>
+</resources>
